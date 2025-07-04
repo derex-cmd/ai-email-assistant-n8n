@@ -1,7 +1,3 @@
-## Repository Name
-```
-ai-email-assistant-n8n
-```
 
 ---
 
